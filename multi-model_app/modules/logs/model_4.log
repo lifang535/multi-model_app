@@ -1,0 +1,262 @@
+2023-08-11 21:03:34,842 - INFO - [Model_4_1] start
+2023-08-11 21:03:34,871 - INFO - [Model_4_2] start
+2023-08-11 21:03:50,254 - INFO - [Model_4_2] output_frames_video_1/frame_93.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:03:50,278 - INFO - [Model_4_1] output_frames_video_1/frame_94.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:03:51,026 - INFO - [Model_4_1] rate: 13.005
+2023-08-11 21:03:53,310 - INFO - [Model_4_1] rate: 4.38
+2023-08-11 21:03:56,265 - INFO - [Model_4_2] output_frames_video_1/frame_218.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:07,209 - INFO - [Model_4_1] output_frames_video_3/frame_1.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:07,357 - INFO - [Model_4_2] output_frames_video_3/frame_1.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:07,615 - INFO - [Model_4_1] rate: 0.712
+2023-08-11 21:04:11,161 - INFO - [Model_4_1] rate: 2.758
+2023-08-11 21:04:12,359 - INFO - [Model_4_2] output_frames_video_3/frame_43.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:12,660 - INFO - [Model_4_1] rate: 6.422
+2023-08-11 21:04:12,815 - INFO - [Model_4_1] output_frames_video_3/frame_48.jpg is being processed, and draw_message_list: 1
+2023-08-11 21:04:14,077 - INFO - [Model_4_1] rate: 6.948
+2023-08-11 21:04:15,111 - INFO - [Model_4_1] rate: 10.044
+2023-08-11 21:04:17,239 - INFO - [Model_4_1] rate: 5.277
+2023-08-11 21:04:17,467 - INFO - [Model_4_2] output_frames_video_3/frame_87.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:23,372 - INFO - [Model_4_1] output_frames_video_4/frame_1.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:23,460 - INFO - [Model_4_2] output_frames_video_4/frame_1.jpg is being processed, and draw_message_list: 1
+2023-08-11 21:04:28,374 - INFO - [Model_4_1] output_frames_video_4/frame_4.jpg is being processed, and draw_message_list: 2
+2023-08-11 21:04:29,336 - INFO - [Model_4_1] rate: 0.963
+2023-08-11 21:04:29,347 - INFO - [Model_4_2] output_frames_video_4/frame_15.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:31,562 - INFO - [Model_4_1] rate: 3.476
+2023-08-11 21:04:32,401 - INFO - [Model_4_1] rate: 10.887
+2023-08-11 21:04:33,186 - INFO - [Model_4_1] rate: 14.225
+2023-08-11 21:04:33,480 - INFO - [Model_4_1] output_frames_video_4/frame_11.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:34,348 - INFO - [Model_4_2] output_frames_video_4/frame_11.jpg is being processed, and draw_message_list: 1
+2023-08-11 21:04:34,800 - INFO - [Model_4_1] rate: 6.123
+2023-08-11 21:04:36,264 - INFO - [Model_4_1] rate: 7.893
+2023-08-11 21:04:37,309 - INFO - [Model_4_1] rate: 10.318
+2023-08-11 21:04:38,389 - INFO - [Model_4_1] rate: 8.497
+2023-08-11 21:04:38,722 - INFO - [Model_4_1] output_frames_video_4/frame_19.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:39,106 - INFO - [Model_4_1] rate: 13.643
+2023-08-11 21:04:39,395 - INFO - [Model_4_2] output_frames_video_4/frame_67.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:40,218 - INFO - [Model_4_1] rate: 9.691
+2023-08-11 21:04:42,630 - INFO - [Model_4_1] rate: 4.301
+2023-08-11 21:04:43,822 - INFO - [Model_4_1] output_frames_video_4/frame_39.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:44,640 - INFO - [Model_4_1] rate: 5.888
+2023-08-11 21:04:44,643 - INFO - [Model_4_2] output_frames_video_5/frame_8.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:46,290 - INFO - [Model_4_1] rate: 5.272
+2023-08-11 21:04:48,792 - INFO - [Model_4_1] rate: 4.819
+2023-08-11 21:04:49,321 - INFO - [Model_4_1] output_frames_video_5/frame_13.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:50,025 - INFO - [Model_4_2] output_frames_video_5/frame_13.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:54,326 - INFO - [Model_4_1] output_frames_video_5/frame_17.jpg is being processed, and draw_message_list: 10
+2023-08-11 21:04:56,455 - INFO - [Model_4_2] output_frames_video_5/frame_18.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:04:59,329 - INFO - [Model_4_1] output_frames_video_5/frame_21.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:02,593 - INFO - [Model_4_2] output_frames_video_4/frame_102.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:05,182 - INFO - [Model_4_1] output_frames_video_5/frame_24.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:07,887 - INFO - [Model_4_1] rate: 0.595
+2023-08-11 21:05:07,916 - INFO - [Model_4_2] output_frames_video_4/frame_111.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:10,189 - INFO - [Model_4_1] output_frames_video_5/frame_28.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:12,920 - INFO - [Model_4_2] output_frames_video_5/frame_31.jpg is being processed, and draw_message_list: 60
+2023-08-11 21:05:15,193 - INFO - [Model_4_1] output_frames_video_5/frame_32.jpg is being processed, and draw_message_list: 45
+2023-08-11 21:05:18,585 - INFO - [Model_4_2] output_frames_video_4/frame_119.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:22,010 - INFO - [Model_4_1] output_frames_video_5/frame_36.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:25,915 - INFO - [Model_4_2] output_frames_video_5/frame_41.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:30,092 - INFO - [Model_4_1] output_frames_video_4/frame_141.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:33,732 - INFO - [Model_4_2] output_frames_video_4/frame_147.jpg is being processed, and draw_message_list: 236
+2023-08-11 21:05:34,447 - INFO - [Model_4_1] rate: 0.341
+2023-08-11 21:05:37,563 - INFO - [Model_4_1] output_frames_video_6/frame_19.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:39,730 - INFO - [Model_4_2] output_frames_video_5/frame_51.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:42,565 - INFO - [Model_4_1] output_frames_video_5/frame_53.jpg is being processed, and draw_message_list: 38
+2023-08-11 21:05:44,730 - INFO - [Model_4_2] output_frames_video_5/frame_56.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:47,565 - INFO - [Model_4_1] output_frames_video_5/frame_58.jpg is being processed, and draw_message_list: 51
+2023-08-11 21:05:47,915 - INFO - [Model_4_1] rate: 0.802
+2023-08-11 21:05:49,730 - INFO - [Model_4_2] output_frames_video_6/frame_95.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:51,546 - INFO - [Model_4_1] rate: 2.283
+2023-08-11 21:05:52,642 - INFO - [Model_4_1] output_frames_video_5/frame_62.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:05:53,240 - INFO - [Model_4_1] rate: 5.58
+2023-08-11 21:05:54,149 - INFO - [Model_4_1] rate: 10.267
+2023-08-11 21:05:54,777 - INFO - [Model_4_2] output_frames_video_5/frame_64.jpg is being processed, and draw_message_list: 1
+2023-08-11 21:05:55,200 - INFO - [Model_4_1] rate: 10.584
+2023-08-11 21:05:57,323 - INFO - [Model_4_1] rate: 4.585
+2023-08-11 21:05:57,643 - INFO - [Model_4_1] output_frames_video_5/frame_70.jpg is being processed, and draw_message_list: 16
+2023-08-11 21:05:58,748 - INFO - [Model_4_1] rate: 7.198
+2023-08-11 21:05:59,797 - INFO - [Model_4_1] rate: 8.936
+2023-08-11 21:05:59,803 - INFO - [Model_4_2] output_frames_video_6/frame_121.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:00,969 - INFO - [Model_4_1] rate: 8.705
+2023-08-11 21:06:02,111 - INFO - [Model_4_1] rate: 9.526
+2023-08-11 21:06:02,668 - INFO - [Model_4_1] output_frames_video_5/frame_82.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:02,922 - INFO - [Model_4_1] rate: 11.187
+2023-08-11 21:06:04,106 - INFO - [Model_4_1] rate: 9.53
+2023-08-11 21:06:04,919 - INFO - [Model_4_2] output_frames_video_6/frame_139.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:05,307 - INFO - [Model_4_1] rate: 8.891
+2023-08-11 21:06:07,669 - INFO - [Model_4_1] output_frames_video_5/frame_90.jpg is being processed, and draw_message_list: 21
+2023-08-11 21:06:07,682 - INFO - [Model_4_1] rate: 4.734
+2023-08-11 21:06:10,061 - INFO - [Model_4_2] output_frames_video_5/frame_93.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:10,247 - INFO - [Model_4_1] rate: 3.919
+2023-08-11 21:06:12,673 - INFO - [Model_4_1] output_frames_video_5/frame_97.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:13,106 - INFO - [Model_4_1] rate: 3.471
+2023-08-11 21:06:15,122 - INFO - [Model_4_1] rate: 5.122
+2023-08-11 21:06:15,127 - INFO - [Model_4_2] output_frames_video_5/frame_100.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:17,808 - INFO - [Model_4_1] rate: 4.101
+2023-08-11 21:06:17,811 - INFO - [Model_4_1] output_frames_video_5/frame_104.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:20,021 - INFO - [Model_4_1] rate: 4.653
+2023-08-11 21:06:20,174 - INFO - [Model_4_2] output_frames_video_5/frame_106.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:22,812 - INFO - [Model_4_1] output_frames_video_6/frame_101.jpg is being processed, and draw_message_list: 30
+2023-08-11 21:06:23,823 - INFO - [Model_4_1] rate: 2.97
+2023-08-11 21:06:25,175 - INFO - [Model_4_2] output_frames_video_5/frame_111.jpg is being processed, and draw_message_list: 66
+2023-08-11 21:06:28,662 - INFO - [Model_4_1] output_frames_video_6/frame_194.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:30,176 - INFO - [Model_4_2] output_frames_video_6/frame_119.jpg is being processed, and draw_message_list: 16
+2023-08-11 21:06:33,663 - INFO - [Model_4_1] output_frames_video_5/frame_119.jpg is being processed, and draw_message_list: 73
+2023-08-11 21:06:34,161 - INFO - [Model_4_1] rate: 0.934
+2023-08-11 21:06:35,176 - INFO - [Model_4_2] output_frames_video_5/frame_122.jpg is being processed, and draw_message_list: 3
+2023-08-11 21:06:36,359 - INFO - [Model_4_1] rate: 4.484
+2023-08-11 21:06:37,348 - INFO - [Model_4_1] rate: 10.594
+2023-08-11 21:06:38,637 - INFO - [Model_4_1] rate: 7.397
+2023-08-11 21:06:38,843 - INFO - [Model_4_1] output_frames_video_6/frame_146.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:40,177 - INFO - [Model_4_2] output_frames_video_6/frame_150.jpg is being processed, and draw_message_list: 5
+2023-08-11 21:06:41,613 - INFO - [Model_4_1] rate: 4.211
+2023-08-11 21:06:43,846 - INFO - [Model_4_1] rate: 3.942
+2023-08-11 21:06:44,135 - INFO - [Model_4_1] output_frames_video_5/frame_135.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:45,024 - INFO - [Model_4_1] rate: 8.396
+2023-08-11 21:06:45,179 - INFO - [Model_4_2] output_frames_video_5/frame_138.jpg is being processed, and draw_message_list: 3
+2023-08-11 21:06:46,265 - INFO - [Model_4_1] rate: 9.557
+2023-08-11 21:06:47,545 - INFO - [Model_4_1] rate: 7.365
+2023-08-11 21:06:49,135 - INFO - [Model_4_1] output_frames_video_5/frame_154.jpg is being processed, and draw_message_list: 11
+2023-08-11 21:06:49,271 - INFO - [Model_4_1] rate: 6.754
+2023-08-11 21:06:50,181 - INFO - [Model_4_2] output_frames_video_6/frame_190.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:06:50,607 - INFO - [Model_4_1] rate: 8.587
+2023-08-11 21:06:52,557 - INFO - [Model_4_1] rate: 4.964
+2023-08-11 21:06:53,985 - INFO - [Model_4_1] rate: 8.013
+2023-08-11 21:06:54,196 - INFO - [Model_4_1] output_frames_video_5/frame_164.jpg is being processed, and draw_message_list: 8
+2023-08-11 21:06:55,183 - INFO - [Model_4_2] output_frames_video_6/frame_203.jpg is being processed, and draw_message_list: 14
+2023-08-11 21:06:55,701 - INFO - [Model_4_1] rate: 5.367
+2023-08-11 21:06:57,024 - INFO - [Model_4_1] rate: 7.457
+2023-08-11 21:06:58,684 - INFO - [Model_4_1] rate: 6.687
+2023-08-11 21:06:59,197 - INFO - [Model_4_1] output_frames_video_6/frame_210.jpg is being processed, and draw_message_list: 11
+2023-08-11 21:07:00,185 - INFO - [Model_4_2] output_frames_video_6/frame_212.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:07:00,491 - INFO - [Model_4_1] rate: 5.049
+2023-08-11 21:07:01,863 - INFO - [Model_4_1] rate: 7.257
+2023-08-11 21:07:03,007 - INFO - [Model_4_1] rate: 9.557
+2023-08-11 21:07:04,198 - INFO - [Model_4_1] output_frames_video_6/frame_218.jpg is being processed, and draw_message_list: 5
+2023-08-11 21:07:05,306 - INFO - [Model_4_2] output_frames_video_6/frame_221.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:07:05,594 - INFO - [Model_4_1] rate: 4.181
+2023-08-11 21:07:07,760 - INFO - [Model_4_1] rate: 4.198
+2023-08-11 21:07:09,199 - INFO - [Model_4_1] output_frames_video_6/frame_239.jpg is being processed, and draw_message_list: 11
+2023-08-11 21:07:09,397 - INFO - [Model_4_1] rate: 6.202
+2023-08-11 21:07:10,310 - INFO - [Model_4_2] output_frames_video_6/frame_240.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:07:11,073 - INFO - [Model_4_1] rate: 7.805
+2023-08-11 21:07:13,471 - INFO - [Model_4_1] rate: 4.2
+2023-08-11 21:07:14,508 - INFO - [Model_4_1] output_frames_video_6/frame_367.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:07:15,313 - INFO - [Model_4_2] output_frames_video_5/frame_200.jpg is being processed, and draw_message_list: 24
+2023-08-11 21:07:19,511 - INFO - [Model_4_1] output_frames_video_5/frame_205.jpg is being processed, and draw_message_list: 30
+2023-08-11 21:07:21,048 - INFO - [Model_4_2] output_frames_video_5/frame_206.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:07:23,110 - INFO - [Model_4_1] rate: 1.383
+2023-08-11 21:07:24,517 - INFO - [Model_4_1] output_frames_video_5/frame_208.jpg is being processed, and draw_message_list: 123
+2023-08-11 21:07:26,050 - INFO - [Model_4_2] output_frames_video_5/frame_213.jpg is being processed, and draw_message_list: 66
+2023-08-11 21:07:29,519 - INFO - [Model_4_1] output_frames_video_5/frame_214.jpg is being processed, and draw_message_list: 149
+2023-08-11 21:07:31,051 - INFO - [Model_4_2] output_frames_video_6/frame_294.jpg is being processed, and draw_message_list: 79
+2023-08-11 21:07:34,520 - INFO - [Model_4_1] output_frames_video_6/frame_298.jpg is being processed, and draw_message_list: 151
+2023-08-11 21:07:36,054 - INFO - [Model_4_2] output_frames_video_6/frame_476.jpg is being processed, and draw_message_list: 66
+2023-08-11 21:07:39,524 - INFO - [Model_4_1] output_frames_video_5/frame_220.jpg is being processed, and draw_message_list: 42
+2023-08-11 21:07:41,316 - INFO - [Model_4_2] output_frames_video_5/frame_222.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:07:44,584 - INFO - [Model_4_1] rate: 0.495
+2023-08-11 21:07:44,621 - INFO - [Model_4_1] output_frames_video_6/frame_544.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:07:48,457 - INFO - [Model_4_2] output_frames_video_6/frame_328.jpg is being processed, and draw_message_list: 264
+2023-08-11 21:07:49,622 - INFO - [Model_4_1] output_frames_video_5/frame_231.jpg is being processed, and draw_message_list: 299
+2023-08-11 21:07:53,458 - INFO - [Model_4_2] output_frames_video_6/frame_347.jpg is being processed, and draw_message_list: 66
+2023-08-11 21:07:55,226 - INFO - [Model_4_1] output_frames_video_5/frame_240.jpg is being processed, and draw_message_list: 91
+2023-08-11 21:07:56,174 - INFO - [Model_4_1] rate: 0.67
+2023-08-11 21:08:00,140 - INFO - [Model_4_2] output_frames_video_6/frame_361.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:02,688 - INFO - [Model_4_1] output_frames_video_5/frame_247.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:05,859 - INFO - [Model_4_2] output_frames_video_14/frame_34.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:08,790 - INFO - [Model_4_1] rate: 1.036
+2023-08-11 21:08:08,842 - INFO - [Model_4_1] output_frames_video_5/frame_253.jpg is being processed, and draw_message_list: 12
+2023-08-11 21:08:12,881 - INFO - [Model_4_2] output_frames_video_5/frame_256.jpg is being processed, and draw_message_list: 12
+2023-08-11 21:08:17,197 - INFO - [Model_4_1] output_frames_video_5/frame_260.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:21,987 - INFO - [Model_4_2] output_frames_video_13/frame_70.jpg is being processed, and draw_message_list: 85
+2023-08-11 21:08:26,989 - INFO - [Model_4_2] output_frames_video_5/frame_273.jpg is being processed, and draw_message_list: 71
+2023-08-11 21:08:30,191 - INFO - [Model_4_1] output_frames_video_13/frame_114.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:33,606 - INFO - [Model_4_2] output_frames_video_13/frame_173.jpg is being processed, and draw_message_list: 84
+2023-08-11 21:08:38,607 - INFO - [Model_4_2] output_frames_video_5/frame_285.jpg is being processed, and draw_message_list: 154
+2023-08-11 21:08:38,787 - INFO - [Model_4_1] rate: 0.329
+2023-08-11 21:08:38,814 - INFO - [Model_4_1] output_frames_video_5/frame_286.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:43,815 - INFO - [Model_4_1] output_frames_video_5/frame_293.jpg is being processed, and draw_message_list: 28
+2023-08-11 21:08:44,830 - INFO - [Model_4_2] output_frames_video_5/frame_294.jpg is being processed, and draw_message_list: 7
+2023-08-11 21:08:48,773 - INFO - [Model_4_1] rate: 0.833
+2023-08-11 21:08:48,815 - INFO - [Model_4_1] output_frames_video_6/frame_512.jpg is being processed, and draw_message_list: 56
+2023-08-11 21:08:49,831 - INFO - [Model_4_2] output_frames_video_7/frame_3.jpg is being processed, and draw_message_list: 26
+2023-08-11 21:08:51,376 - INFO - [Model_4_1] rate: 3.223
+2023-08-11 21:08:52,178 - INFO - [Model_4_1] rate: 12.265
+2023-08-11 21:08:53,249 - INFO - [Model_4_1] rate: 9.559
+2023-08-11 21:08:53,827 - INFO - [Model_4_1] output_frames_video_7/frame_13.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:54,509 - INFO - [Model_4_1] rate: 7.895
+2023-08-11 21:08:54,990 - INFO - [Model_4_2] output_frames_video_7/frame_16.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:56,851 - INFO - [Model_4_1] rate: 4.537
+2023-08-11 21:08:58,861 - INFO - [Model_4_1] output_frames_video_7/frame_24.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:08:59,030 - INFO - [Model_4_1] rate: 4.471
+2023-08-11 21:09:00,114 - INFO - [Model_4_2] output_frames_video_7/frame_26.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:00,290 - INFO - [Model_4_1] rate: 8.753
+2023-08-11 21:09:01,268 - INFO - [Model_4_1] rate: 10.846
+2023-08-11 21:09:02,424 - INFO - [Model_4_1] rate: 8.15
+2023-08-11 21:09:03,861 - INFO - [Model_4_1] output_frames_video_7/frame_34.jpg is being processed, and draw_message_list: 8
+2023-08-11 21:09:03,924 - INFO - [Model_4_1] rate: 7.068
+2023-08-11 21:09:05,115 - INFO - [Model_4_2] output_frames_video_6/frame_571.jpg is being processed, and draw_message_list: 18
+2023-08-11 21:09:06,580 - INFO - [Model_4_1] rate: 3.942
+2023-08-11 21:09:08,862 - INFO - [Model_4_1] output_frames_video_7/frame_41.jpg is being processed, and draw_message_list: 24
+2023-08-11 21:09:09,315 - INFO - [Model_4_1] rate: 3.543
+2023-08-11 21:09:10,195 - INFO - [Model_4_2] output_frames_video_6/frame_584.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:11,010 - INFO - [Model_4_1] rate: 5.8
+2023-08-11 21:09:12,159 - INFO - [Model_4_1] rate: 9.669
+2023-08-11 21:09:13,325 - INFO - [Model_4_1] rate: 8.039
+2023-08-11 21:09:13,863 - INFO - [Model_4_1] output_frames_video_6/frame_598.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:14,267 - INFO - [Model_4_1] rate: 10.384
+2023-08-11 21:09:15,196 - INFO - [Model_4_2] output_frames_video_7/frame_53.jpg is being processed, and draw_message_list: 8
+2023-08-11 21:09:15,448 - INFO - [Model_4_1] rate: 9.821
+2023-08-11 21:09:16,988 - INFO - [Model_4_1] rate: 6.533
+2023-08-11 21:09:18,025 - INFO - [Model_4_1] rate: 9.061
+2023-08-11 21:09:18,903 - INFO - [Model_4_1] output_frames_video_7/frame_59.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:19,029 - INFO - [Model_4_1] rate: 9.902
+2023-08-11 21:09:19,986 - INFO - [Model_4_1] rate: 11.411
+2023-08-11 21:09:20,196 - INFO - [Model_4_2] output_frames_video_7/frame_62.jpg is being processed, and draw_message_list: 7
+2023-08-11 21:09:20,772 - INFO - [Model_4_1] rate: 12.769
+2023-08-11 21:09:21,545 - INFO - [Model_4_1] rate: 12.649
+2023-08-11 21:09:22,270 - INFO - [Model_4_1] rate: 14.417
+2023-08-11 21:09:22,973 - INFO - [Model_4_1] rate: 13.844
+2023-08-11 21:09:23,872 - INFO - [Model_4_1] rate: 12.282
+2023-08-11 21:09:24,002 - INFO - [Model_4_1] output_frames_video_6/frame_630.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:24,577 - INFO - [Model_4_1] rate: 14.445
+2023-08-11 21:09:25,197 - INFO - [Model_4_2] output_frames_video_7/frame_71.jpg is being processed, and draw_message_list: 7
+2023-08-11 21:09:25,434 - INFO - [Model_4_1] rate: 11.106
+2023-08-11 21:09:26,130 - INFO - [Model_4_1] rate: 14.919
+2023-08-11 21:09:26,867 - INFO - [Model_4_1] rate: 13.901
+2023-08-11 21:09:28,396 - INFO - [Model_4_1] rate: 7.598
+2023-08-11 21:09:29,003 - INFO - [Model_4_1] output_frames_video_7/frame_81.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:29,037 - INFO - [Model_4_1] rate: 13.517
+2023-08-11 21:09:29,977 - INFO - [Model_4_1] rate: 11.734
+2023-08-11 21:09:30,340 - INFO - [Model_4_2] output_frames_video_7/frame_86.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:30,687 - INFO - [Model_4_1] rate: 14.062
+2023-08-11 21:09:31,443 - INFO - [Model_4_1] rate: 14.529
+2023-08-11 21:09:32,270 - INFO - [Model_4_1] rate: 12.01
+2023-08-11 21:09:33,038 - INFO - [Model_4_1] rate: 13.016
+2023-08-11 21:09:33,754 - INFO - [Model_4_1] rate: 15.177
+2023-08-11 21:09:34,003 - INFO - [Model_4_1] output_frames_video_7/frame_96.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:34,469 - INFO - [Model_4_1] rate: 14.649
+2023-08-11 21:09:35,250 - INFO - [Model_4_1] rate: 12.382
+2023-08-11 21:09:35,508 - INFO - [Model_4_2] output_frames_video_7/frame_101.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:36,243 - INFO - [Model_4_1] rate: 11.602
+2023-08-11 21:09:37,133 - INFO - [Model_4_1] rate: 10.667
+2023-08-11 21:09:38,062 - INFO - [Model_4_1] rate: 12.034
+2023-08-11 21:09:38,825 - INFO - [Model_4_1] rate: 12.751
+2023-08-11 21:09:39,289 - INFO - [Model_4_1] output_frames_video_7/frame_115.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:39,510 - INFO - [Model_4_1] rate: 14.669
+2023-08-11 21:09:40,335 - INFO - [Model_4_1] rate: 12.132
+2023-08-11 21:09:40,513 - INFO - [Model_4_2] output_frames_video_7/frame_120.jpg is being processed, and draw_message_list: 0
+2023-08-11 21:09:41,015 - INFO - [Model_4_1] rate: 14.764
+2023-08-11 21:09:41,702 - INFO - [Model_4_1] rate: 14.556
+2023-08-11 21:09:42,405 - INFO - [Model_4_1] rate: 15.658
+2023-08-11 21:09:43,106 - INFO - [Model_4_1] rate: 14.242
+2023-08-11 21:09:43,737 - INFO - [Model_4_1] rate: 17.038
+2023-08-11 21:09:44,290 - INFO - [Model_4_1] output_frames_video_7/frame_138.jpg is being processed, and draw_message_list: 3
+2023-08-11 21:09:44,339 - INFO - [Model_4_1] rate: 16.551
+2023-08-11 21:09:44,980 - INFO - [Model_4_1] rate: 15.802
+2023-08-11 21:09:45,528 - INFO - [Model_4_2] output_frames_video_7/frame_149.jpg is being processed, and draw_message_list: 1
+2023-08-11 21:09:45,581 - INFO - [Model_4_1] rate: 15.951
+2023-08-11 21:09:46,265 - INFO - [Model_4_1] rate: 15.269
+2023-08-11 21:09:46,910 - INFO - [Model_4_1] rate: 16.617
+2023-08-11 21:09:47,487 - INFO - [Model_4_1] rate: 16.704
+2023-08-11 21:09:47,570 - INFO - [Model_4_1] end
+2023-08-11 21:09:47,579 - INFO - [Model_4_2] end

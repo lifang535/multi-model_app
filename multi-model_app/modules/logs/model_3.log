@@ -1,0 +1,536 @@
+2023-08-11 21:03:42,319 - INFO - [Model_3_3] start
+2023-08-11 21:03:42,751 - INFO - [Model_3_1] start
+2023-08-11 21:03:42,806 - INFO - [Model_3_2] start
+2023-08-11 21:03:52,762 - INFO - [Model_3_2] frame_filename: output_frames_video_1/frame_173.jpg, and person_frames_list: 0
+2023-08-11 21:03:53,631 - INFO - [Model_3_1] frame_filename: output_frames_video_2/frame_32.jpg, and person_frames_list: 0
+2023-08-11 21:03:54,735 - INFO - [Model_3_3] frame_filename: output_frames_video_1/frame_199.jpg, and person_frames_list: 0
+2023-08-11 21:03:57,529 - INFO - [Model_3_1] rate: 1.048
+2023-08-11 21:04:23,011 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_1.jpg, and person_frames_list: 3
+2023-08-11 21:04:23,057 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_1.jpg, and person_frames_list: 5
+2023-08-11 21:04:23,120 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_1.jpg, and person_frames_list: 7
+2023-08-11 21:04:23,134 - INFO - [Model_3_1] rate: 0.274
+2023-08-11 21:04:24,009 - INFO - [Model_3_1] rate: 5.493
+2023-08-11 21:04:24,720 - INFO - [Model_3_1] rate: 7.183
+2023-08-11 21:04:25,390 - INFO - [Model_3_1] rate: 7.182
+2023-08-11 21:04:26,218 - INFO - [Model_3_1] rate: 7.258
+2023-08-11 21:04:26,903 - INFO - [Model_3_1] rate: 7.626
+2023-08-11 21:04:27,568 - INFO - [Model_3_1] rate: 7.692
+2023-08-11 21:04:28,119 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_5.jpg, and person_frames_list: 64
+2023-08-11 21:04:28,224 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_5.jpg, and person_frames_list: 64
+2023-08-11 21:04:28,533 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_6.jpg, and person_frames_list: 67
+2023-08-11 21:04:28,549 - INFO - [Model_3_1] rate: 5.015
+2023-08-11 21:04:29,180 - INFO - [Model_3_1] rate: 8.076
+2023-08-11 21:04:30,026 - INFO - [Model_3_1] rate: 5.672
+2023-08-11 21:04:30,724 - INFO - [Model_3_1] rate: 7.237
+2023-08-11 21:04:31,294 - INFO - [Model_3_1] rate: 9.165
+2023-08-11 21:04:31,835 - INFO - [Model_3_1] rate: 8.586
+2023-08-11 21:04:32,515 - INFO - [Model_3_1] rate: 7.89
+2023-08-11 21:04:33,172 - INFO - [Model_3_1] rate: 7.168
+2023-08-11 21:04:33,193 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_11.jpg, and person_frames_list: 73
+2023-08-11 21:04:33,509 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_11.jpg, and person_frames_list: 79
+2023-08-11 21:04:33,854 - INFO - [Model_3_1] rate: 7.183
+2023-08-11 21:04:33,918 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_11.jpg, and person_frames_list: 80
+2023-08-11 21:04:34,458 - INFO - [Model_3_1] rate: 8.509
+2023-08-11 21:04:35,104 - INFO - [Model_3_1] rate: 7.982
+2023-08-11 21:04:35,709 - INFO - [Model_3_1] rate: 8.298
+2023-08-11 21:04:36,445 - INFO - [Model_3_1] rate: 6.713
+2023-08-11 21:04:37,056 - INFO - [Model_3_1] rate: 8.715
+2023-08-11 21:04:37,955 - INFO - [Model_3_1] rate: 6.35
+2023-08-11 21:04:38,338 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_19.jpg, and person_frames_list: 79
+2023-08-11 21:04:38,602 - INFO - [Model_3_1] rate: 7.768
+2023-08-11 21:04:38,632 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_20.jpg, and person_frames_list: 79
+2023-08-11 21:04:39,048 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_20.jpg, and person_frames_list: 79
+2023-08-11 21:04:39,244 - INFO - [Model_3_1] rate: 8.106
+2023-08-11 21:04:39,840 - INFO - [Model_3_1] rate: 7.947
+2023-08-11 21:04:40,616 - INFO - [Model_3_1] rate: 6.488
+2023-08-11 21:04:41,371 - INFO - [Model_3_1] rate: 7.101
+2023-08-11 21:04:42,121 - INFO - [Model_3_1] rate: 6.527
+2023-08-11 21:04:42,911 - INFO - [Model_3_1] rate: 6.192
+2023-08-11 21:04:43,523 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_40.jpg, and person_frames_list: 78
+2023-08-11 21:04:43,848 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_40.jpg, and person_frames_list: 79
+2023-08-11 21:04:43,864 - INFO - [Model_3_1] rate: 5.196
+2023-08-11 21:04:44,381 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_41.jpg, and person_frames_list: 81
+2023-08-11 21:04:44,468 - INFO - [Model_3_1] rate: 8.834
+2023-08-11 21:04:45,371 - INFO - [Model_3_1] rate: 5.338
+2023-08-11 21:04:46,087 - INFO - [Model_3_1] rate: 7.019
+2023-08-11 21:04:46,802 - INFO - [Model_3_1] rate: 6.897
+2023-08-11 21:04:47,698 - INFO - [Model_3_1] rate: 5.64
+2023-08-11 21:04:48,424 - INFO - [Model_3_1] rate: 7.158
+2023-08-11 21:04:48,678 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_56.jpg, and person_frames_list: 94
+2023-08-11 21:04:49,216 - INFO - [Model_3_1] rate: 6.097
+2023-08-11 21:04:49,303 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_58.jpg, and person_frames_list: 97
+2023-08-11 21:04:49,664 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_61.jpg, and person_frames_list: 96
+2023-08-11 21:04:50,003 - INFO - [Model_3_1] rate: 6.283
+2023-08-11 21:04:50,737 - INFO - [Model_3_1] rate: 7.161
+2023-08-11 21:04:51,716 - INFO - [Model_3_1] rate: 5.947
+2023-08-11 21:04:52,808 - INFO - [Model_3_1] rate: 5.582
+2023-08-11 21:04:53,778 - INFO - [Model_3_1] rate: 5.015
+2023-08-11 21:04:53,852 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_83.jpg, and person_frames_list: 115
+2023-08-11 21:04:54,396 - INFO - [Model_3_1] rate: 8.469
+2023-08-11 21:04:54,660 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_85.jpg, and person_frames_list: 121
+2023-08-11 21:04:54,960 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_86.jpg, and person_frames_list: 123
+2023-08-11 21:04:55,373 - INFO - [Model_3_1] rate: 5.105
+2023-08-11 21:04:55,926 - INFO - [Model_3_1] rate: 8.8
+2023-08-11 21:04:56,970 - INFO - [Model_3_1] rate: 5.755
+2023-08-11 21:04:57,973 - INFO - [Model_3_1] rate: 5.108
+2023-08-11 21:04:58,666 - INFO - [Model_3_1] rate: 7.244
+2023-08-11 21:04:59,094 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_102.jpg, and person_frames_list: 162
+2023-08-11 21:04:59,591 - INFO - [Model_3_1] rate: 5.421
+2023-08-11 21:04:59,828 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_104.jpg, and person_frames_list: 165
+2023-08-11 21:05:00,236 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_105.jpg, and person_frames_list: 168
+2023-08-11 21:05:00,352 - INFO - [Model_3_1] rate: 6.601
+2023-08-11 21:05:01,262 - INFO - [Model_3_1] rate: 5.305
+2023-08-11 21:05:02,180 - INFO - [Model_3_1] rate: 5.544
+2023-08-11 21:05:02,884 - INFO - [Model_3_1] rate: 7.102
+2023-08-11 21:05:03,950 - INFO - [Model_3_1] rate: 4.695
+2023-08-11 21:05:04,580 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_112.jpg, and person_frames_list: 176
+2023-08-11 21:05:05,006 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_112.jpg, and person_frames_list: 184
+2023-08-11 21:05:05,075 - INFO - [Model_3_1] rate: 5.323
+2023-08-11 21:05:05,541 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_113.jpg, and person_frames_list: 185
+2023-08-11 21:05:05,957 - INFO - [Model_3_1] rate: 5.703
+2023-08-11 21:05:06,704 - INFO - [Model_3_1] rate: 6.433
+2023-08-11 21:05:07,689 - INFO - [Model_3_1] rate: 6.127
+2023-08-11 21:05:08,508 - INFO - [Model_3_1] rate: 6.087
+2023-08-11 21:05:09,275 - INFO - [Model_3_1] rate: 6.807
+2023-08-11 21:05:09,715 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_123.jpg, and person_frames_list: 205
+2023-08-11 21:05:10,059 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_124.jpg, and person_frames_list: 209
+2023-08-11 21:05:10,069 - INFO - [Model_3_1] rate: 6.051
+2023-08-11 21:05:10,777 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_125.jpg, and person_frames_list: 218
+2023-08-11 21:05:10,794 - INFO - [Model_3_1] rate: 7.049
+2023-08-11 21:05:11,667 - INFO - [Model_3_1] rate: 5.747
+2023-08-11 21:05:12,420 - INFO - [Model_3_1] rate: 6.653
+2023-08-11 21:05:13,322 - INFO - [Model_3_1] rate: 5.566
+2023-08-11 21:05:14,005 - INFO - [Model_3_1] rate: 7.149
+2023-08-11 21:05:15,020 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_130.jpg, and person_frames_list: 246
+2023-08-11 21:05:15,038 - INFO - [Model_3_1] rate: 5.86
+2023-08-11 21:05:15,393 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_130.jpg, and person_frames_list: 251
+2023-08-11 21:05:16,139 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_131.jpg, and person_frames_list: 259
+2023-08-11 21:05:16,157 - INFO - [Model_3_1] rate: 4.487
+2023-08-11 21:05:16,775 - INFO - [Model_3_1] rate: 7.927
+2023-08-11 21:05:17,818 - INFO - [Model_3_1] rate: 4.769
+2023-08-11 21:05:18,567 - INFO - [Model_3_1] rate: 6.805
+2023-08-11 21:05:19,392 - INFO - [Model_3_1] rate: 6.068
+2023-08-11 21:05:20,253 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_134.jpg, and person_frames_list: 306
+2023-08-11 21:05:20,275 - INFO - [Model_3_1] rate: 5.822
+2023-08-11 21:05:20,835 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_135.jpg, and person_frames_list: 316
+2023-08-11 21:05:21,088 - INFO - [Model_3_1] rate: 6.026
+2023-08-11 21:05:21,561 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_136.jpg, and person_frames_list: 325
+2023-08-11 21:05:21,740 - INFO - [Model_3_1] rate: 7.65
+2023-08-11 21:05:22,638 - INFO - [Model_3_1] rate: 5.504
+2023-08-11 21:05:23,520 - INFO - [Model_3_1] rate: 5.664
+2023-08-11 21:05:24,314 - INFO - [Model_3_1] rate: 6.351
+2023-08-11 21:05:25,153 - INFO - [Model_3_1] rate: 5.904
+2023-08-11 21:05:25,604 - INFO - [Model_3_3] frame_filename: output_frames_video_4/frame_141.jpg, and person_frames_list: 386
+2023-08-11 21:05:26,007 - INFO - [Model_3_1] rate: 5.679
+2023-08-11 21:05:26,128 - INFO - [Model_3_2] frame_filename: output_frames_video_4/frame_142.jpg, and person_frames_list: 396
+2023-08-11 21:05:26,718 - INFO - [Model_3_1] rate: 7.618
+2023-08-11 21:05:27,067 - INFO - [Model_3_1] frame_filename: output_frames_video_4/frame_143.jpg, and person_frames_list: 417
+2023-08-11 21:05:27,647 - INFO - [Model_3_1] rate: 5.339
+2023-08-11 21:05:28,413 - INFO - [Model_3_1] rate: 6.371
+2023-08-11 21:05:29,305 - INFO - [Model_3_1] rate: 5.726
+2023-08-11 21:05:30,223 - INFO - [Model_3_1] rate: 5.376
+2023-08-11 21:05:30,823 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_4.jpg, and person_frames_list: 485
+2023-08-11 21:05:30,833 - INFO - [Model_3_1] rate: 9.041
+2023-08-11 21:05:31,483 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_10.jpg, and person_frames_list: 497
+2023-08-11 21:05:31,704 - INFO - [Model_3_1] rate: 5.813
+2023-08-11 21:05:32,159 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_15.jpg, and person_frames_list: 507
+2023-08-11 21:05:32,278 - INFO - [Model_3_1] rate: 8.731
+2023-08-11 21:05:32,977 - INFO - [Model_3_1] rate: 7.115
+2023-08-11 21:05:33,689 - INFO - [Model_3_1] rate: 6.932
+2023-08-11 21:05:34,336 - INFO - [Model_3_1] rate: 7.692
+2023-08-11 21:05:34,952 - INFO - [Model_3_1] rate: 8.414
+2023-08-11 21:05:35,535 - INFO - [Model_3_1] rate: 8.357
+2023-08-11 21:05:36,130 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_36.jpg, and person_frames_list: 568
+2023-08-11 21:05:36,137 - INFO - [Model_3_1] rate: 8.38
+2023-08-11 21:05:36,725 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_37.jpg, and person_frames_list: 577
+2023-08-11 21:05:36,862 - INFO - [Model_3_1] rate: 6.807
+2023-08-11 21:05:37,332 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_38.jpg, and person_frames_list: 580
+2023-08-11 21:05:37,454 - INFO - [Model_3_1] rate: 8.518
+2023-08-11 21:05:38,182 - INFO - [Model_3_1] rate: 6.855
+2023-08-11 21:05:38,760 - INFO - [Model_3_1] rate: 8.792
+2023-08-11 21:05:39,376 - INFO - [Model_3_1] rate: 7.904
+2023-08-11 21:05:39,969 - INFO - [Model_3_1] rate: 8.927
+2023-08-11 21:05:40,850 - INFO - [Model_3_1] rate: 5.488
+2023-08-11 21:05:41,235 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_60.jpg, and person_frames_list: 607
+2023-08-11 21:05:41,331 - INFO - [Model_3_1] rate: 10.572
+2023-08-11 21:05:41,781 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_62.jpg, and person_frames_list: 606
+2023-08-11 21:05:42,183 - INFO - [Model_3_1] rate: 5.864
+2023-08-11 21:05:42,694 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_63.jpg, and person_frames_list: 603
+2023-08-11 21:05:42,731 - INFO - [Model_3_1] rate: 8.991
+2023-08-11 21:05:43,601 - INFO - [Model_3_1] rate: 5.776
+2023-08-11 21:05:44,320 - INFO - [Model_3_1] rate: 6.983
+2023-08-11 21:05:44,808 - INFO - [Model_3_1] rate: 10.176
+2023-08-11 21:05:45,476 - INFO - [Model_3_1] rate: 7.601
+2023-08-11 21:05:46,311 - INFO - [Model_3_1] rate: 5.853
+2023-08-11 21:05:46,318 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_91.jpg, and person_frames_list: 620
+2023-08-11 21:05:46,768 - INFO - [Model_3_1] rate: 11.056
+2023-08-11 21:05:47,118 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_91.jpg, and person_frames_list: 625
+2023-08-11 21:05:47,603 - INFO - [Model_3_1] rate: 6.016
+2023-08-11 21:05:47,964 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_93.jpg, and person_frames_list: 624
+2023-08-11 21:05:48,286 - INFO - [Model_3_1] rate: 7.632
+2023-08-11 21:05:48,862 - INFO - [Model_3_1] rate: 8.331
+2023-08-11 21:05:49,494 - INFO - [Model_3_1] rate: 7.883
+2023-08-11 21:05:50,224 - INFO - [Model_3_1] rate: 6.959
+2023-08-11 21:05:50,699 - INFO - [Model_3_1] rate: 10.446
+2023-08-11 21:05:51,520 - INFO - [Model_3_1] rate: 7.25
+2023-08-11 21:05:51,548 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_101.jpg, and person_frames_list: 629
+2023-08-11 21:05:52,334 - INFO - [Model_3_1] rate: 6.134
+2023-08-11 21:05:52,352 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_103.jpg, and person_frames_list: 633
+2023-08-11 21:05:52,843 - INFO - [Model_3_1] rate: 9.794
+2023-08-11 21:05:53,208 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_105.jpg, and person_frames_list: 634
+2023-08-11 21:05:53,662 - INFO - [Model_3_1] rate: 6.111
+2023-08-11 21:05:54,316 - INFO - [Model_3_1] rate: 7.637
+2023-08-11 21:05:54,916 - INFO - [Model_3_1] rate: 8.582
+2023-08-11 21:05:55,816 - INFO - [Model_3_1] rate: 6.609
+2023-08-11 21:05:56,728 - INFO - [Model_3_1] rate: 5.43
+2023-08-11 21:05:56,749 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_113.jpg, and person_frames_list: 657
+2023-08-11 21:05:57,199 - INFO - [Model_3_1] rate: 10.606
+2023-08-11 21:05:57,601 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_115.jpg, and person_frames_list: 663
+2023-08-11 21:05:58,151 - INFO - [Model_3_1] rate: 5.336
+2023-08-11 21:05:58,597 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_120.jpg, and person_frames_list: 661
+2023-08-11 21:05:58,874 - INFO - [Model_3_1] rate: 6.775
+2023-08-11 21:05:59,464 - INFO - [Model_3_1] rate: 8.64
+2023-08-11 21:06:00,119 - INFO - [Model_3_1] rate: 7.538
+2023-08-11 21:06:00,814 - INFO - [Model_3_1] rate: 7.116
+2023-08-11 21:06:01,407 - INFO - [Model_3_1] rate: 8.439
+2023-08-11 21:06:02,139 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_133.jpg, and person_frames_list: 649
+2023-08-11 21:06:02,142 - INFO - [Model_3_1] rate: 6.76
+2023-08-11 21:06:02,901 - INFO - [Model_3_1] rate: 6.604
+2023-08-11 21:06:02,906 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_136.jpg, and person_frames_list: 649
+2023-08-11 21:06:03,317 - INFO - [Model_3_1] rate: 12.191
+2023-08-11 21:06:03,707 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_137.jpg, and person_frames_list: 654
+2023-08-11 21:06:03,987 - INFO - [Model_3_1] rate: 7.537
+2023-08-11 21:06:04,549 - INFO - [Model_3_1] rate: 8.817
+2023-08-11 21:06:05,262 - INFO - [Model_3_1] rate: 7.06
+2023-08-11 21:06:05,963 - INFO - [Model_3_1] rate: 7.297
+2023-08-11 21:06:06,505 - INFO - [Model_3_1] rate: 8.848
+2023-08-11 21:06:07,039 - INFO - [Model_3_1] rate: 9.38
+2023-08-11 21:06:07,378 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_148.jpg, and person_frames_list: 695
+2023-08-11 21:06:07,747 - INFO - [Model_3_1] rate: 7.039
+2023-08-11 21:06:08,174 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_150.jpg, and person_frames_list: 696
+2023-08-11 21:06:08,399 - INFO - [Model_3_1] rate: 7.716
+2023-08-11 21:06:09,016 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_154.jpg, and person_frames_list: 692
+2023-08-11 21:06:09,025 - INFO - [Model_3_1] rate: 8.024
+2023-08-11 21:06:09,830 - INFO - [Model_3_1] rate: 6.153
+2023-08-11 21:06:10,329 - INFO - [Model_3_1] rate: 10.058
+2023-08-11 21:06:11,162 - INFO - [Model_3_1] rate: 6.007
+2023-08-11 21:06:11,724 - INFO - [Model_3_1] rate: 8.856
+2023-08-11 21:06:12,441 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_161.jpg, and person_frames_list: 680
+2023-08-11 21:06:12,445 - INFO - [Model_3_1] rate: 6.907
+2023-08-11 21:06:13,119 - INFO - [Model_3_1] rate: 7.512
+2023-08-11 21:06:13,494 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_164.jpg, and person_frames_list: 679
+2023-08-11 21:06:13,715 - INFO - [Model_3_1] rate: 8.71
+2023-08-11 21:06:14,043 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_166.jpg, and person_frames_list: 677
+2023-08-11 21:06:14,351 - INFO - [Model_3_1] rate: 7.51
+2023-08-11 21:06:14,908 - INFO - [Model_3_1] rate: 9.106
+2023-08-11 21:06:15,651 - INFO - [Model_3_1] rate: 8.046
+2023-08-11 21:06:16,512 - INFO - [Model_3_1] rate: 5.79
+2023-08-11 21:06:17,028 - INFO - [Model_3_1] rate: 9.773
+2023-08-11 21:06:17,493 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_174.jpg, and person_frames_list: 675
+2023-08-11 21:06:17,623 - INFO - [Model_3_1] rate: 8.416
+2023-08-11 21:06:18,310 - INFO - [Model_3_1] rate: 7.417
+2023-08-11 21:06:18,827 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_177.jpg, and person_frames_list: 677
+2023-08-11 21:06:18,837 - INFO - [Model_3_1] rate: 9.29
+2023-08-11 21:06:19,439 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_179.jpg, and person_frames_list: 675
+2023-08-11 21:06:19,447 - INFO - [Model_3_1] rate: 8.249
+2023-08-11 21:06:20,196 - INFO - [Model_3_1] rate: 7.91
+2023-08-11 21:06:20,941 - INFO - [Model_3_1] rate: 6.668
+2023-08-11 21:06:21,448 - INFO - [Model_3_1] rate: 10.047
+2023-08-11 21:06:22,044 - INFO - [Model_3_1] rate: 8.342
+2023-08-11 21:06:22,634 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_185.jpg, and person_frames_list: 652
+2023-08-11 21:06:22,636 - INFO - [Model_3_1] rate: 8.326
+2023-08-11 21:06:23,354 - INFO - [Model_3_1] rate: 8.459
+2023-08-11 21:06:23,972 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_187.jpg, and person_frames_list: 642
+2023-08-11 21:06:23,989 - INFO - [Model_3_1] rate: 7.87
+2023-08-11 21:06:24,483 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_189.jpg, and person_frames_list: 637
+2023-08-11 21:06:24,729 - INFO - [Model_3_1] rate: 6.823
+2023-08-11 21:06:25,251 - INFO - [Model_3_1] rate: 9.6
+2023-08-11 21:06:25,959 - INFO - [Model_3_1] rate: 7.087
+2023-08-11 21:06:26,459 - INFO - [Model_3_1] rate: 9.869
+2023-08-11 21:06:27,102 - INFO - [Model_3_1] rate: 7.76
+2023-08-11 21:06:27,836 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_196.jpg, and person_frames_list: 611
+2023-08-11 21:06:27,841 - INFO - [Model_3_1] rate: 8.051
+2023-08-11 21:06:28,504 - INFO - [Model_3_1] rate: 7.511
+2023-08-11 21:06:29,042 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_198.jpg, and person_frames_list: 602
+2023-08-11 21:06:29,149 - INFO - [Model_3_1] rate: 7.857
+2023-08-11 21:06:29,553 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_199.jpg, and person_frames_list: 597
+2023-08-11 21:06:29,841 - INFO - [Model_3_1] rate: 7.223
+2023-08-11 21:06:30,363 - INFO - [Model_3_1] rate: 9.499
+2023-08-11 21:06:31,071 - INFO - [Model_3_1] rate: 7.073
+2023-08-11 21:06:31,624 - INFO - [Model_3_1] rate: 9.237
+2023-08-11 21:06:32,281 - INFO - [Model_3_1] rate: 7.431
+2023-08-11 21:06:32,852 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_204.jpg, and person_frames_list: 572
+2023-08-11 21:06:33,042 - INFO - [Model_3_1] rate: 6.974
+2023-08-11 21:06:33,565 - INFO - [Model_3_1] rate: 9.263
+2023-08-11 21:06:34,429 - INFO - [Model_3_1] rate: 5.625
+2023-08-11 21:06:34,448 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_207.jpg, and person_frames_list: 560
+2023-08-11 21:06:34,831 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_208.jpg, and person_frames_list: 557
+2023-08-11 21:06:34,965 - INFO - [Model_3_1] rate: 9.416
+2023-08-11 21:06:35,600 - INFO - [Model_3_1] rate: 7.871
+2023-08-11 21:06:36,214 - INFO - [Model_3_1] rate: 8.102
+2023-08-11 21:06:36,744 - INFO - [Model_3_1] rate: 9.598
+2023-08-11 21:06:37,420 - INFO - [Model_3_1] rate: 7.297
+2023-08-11 21:06:37,920 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_215.jpg, and person_frames_list: 531
+2023-08-11 21:06:37,924 - INFO - [Model_3_1] rate: 9.841
+2023-08-11 21:06:38,621 - INFO - [Model_3_1] rate: 7.229
+2023-08-11 21:06:39,141 - INFO - [Model_3_1] rate: 9.501
+2023-08-11 21:06:39,554 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_218.jpg, and person_frames_list: 518
+2023-08-11 21:06:39,821 - INFO - [Model_3_1] rate: 7.434
+2023-08-11 21:06:40,243 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_219.jpg, and person_frames_list: 513
+2023-08-11 21:06:40,312 - INFO - [Model_3_1] rate: 10.188
+2023-08-11 21:06:40,917 - INFO - [Model_3_1] rate: 8.245
+2023-08-11 21:06:41,477 - INFO - [Model_3_1] rate: 9.24
+2023-08-11 21:06:42,072 - INFO - [Model_3_1] rate: 8.057
+2023-08-11 21:06:42,814 - INFO - [Model_3_1] rate: 8.15
+2023-08-11 21:06:43,169 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_225.jpg, and person_frames_list: 501
+2023-08-11 21:06:43,464 - INFO - [Model_3_1] rate: 7.866
+2023-08-11 21:06:44,112 - INFO - [Model_3_1] rate: 7.514
+2023-08-11 21:06:44,576 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_228.jpg, and person_frames_list: 501
+2023-08-11 21:06:44,990 - INFO - [Model_3_1] rate: 5.763
+2023-08-11 21:06:45,393 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_229.jpg, and person_frames_list: 495
+2023-08-11 21:06:45,411 - INFO - [Model_3_1] rate: 12.011
+2023-08-11 21:06:46,274 - INFO - [Model_3_1] rate: 5.688
+2023-08-11 21:06:46,753 - INFO - [Model_3_1] rate: 10.663
+2023-08-11 21:06:47,534 - INFO - [Model_3_1] rate: 6.398
+2023-08-11 21:06:48,120 - INFO - [Model_3_1] rate: 8.45
+2023-08-11 21:06:48,419 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_237.jpg, and person_frames_list: 488
+2023-08-11 21:06:48,741 - INFO - [Model_3_1] rate: 8.095
+2023-08-11 21:06:49,359 - INFO - [Model_3_1] rate: 8.037
+2023-08-11 21:06:49,912 - INFO - [Model_3_1] rate: 8.968
+2023-08-11 21:06:49,925 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_242.jpg, and person_frames_list: 483
+2023-08-11 21:06:50,614 - INFO - [Model_3_1] rate: 7.197
+2023-08-11 21:06:50,621 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_243.jpg, and person_frames_list: 480
+2023-08-11 21:06:51,013 - INFO - [Model_3_1] rate: 12.455
+2023-08-11 21:06:51,813 - INFO - [Model_3_1] rate: 6.241
+2023-08-11 21:06:52,274 - INFO - [Model_3_1] rate: 10.753
+2023-08-11 21:06:53,213 - INFO - [Model_3_1] rate: 5.349
+2023-08-11 21:06:53,734 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_257.jpg, and person_frames_list: 468
+2023-08-11 21:06:53,747 - INFO - [Model_3_1] rate: 9.45
+2023-08-11 21:06:54,624 - INFO - [Model_3_1] rate: 5.853
+2023-08-11 21:06:55,045 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_259.jpg, and person_frames_list: 466
+2023-08-11 21:06:55,184 - INFO - [Model_3_1] rate: 8.63
+2023-08-11 21:06:55,890 - INFO - [Model_3_1] rate: 6.979
+2023-08-11 21:06:55,953 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_263.jpg, and person_frames_list: 458
+2023-08-11 21:06:56,462 - INFO - [Model_3_1] rate: 8.915
+2023-08-11 21:06:57,130 - INFO - [Model_3_1] rate: 7.393
+2023-08-11 21:06:57,622 - INFO - [Model_3_1] rate: 10.241
+2023-08-11 21:06:58,250 - INFO - [Model_3_1] rate: 8.293
+2023-08-11 21:06:58,748 - INFO - [Model_3_1] rate: 9.468
+2023-08-11 21:06:58,987 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_279.jpg, and person_frames_list: 432
+2023-08-11 21:06:59,294 - INFO - [Model_3_1] rate: 9.148
+2023-08-11 21:06:59,921 - INFO - [Model_3_1] rate: 8.075
+2023-08-11 21:07:00,064 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_295.jpg, and person_frames_list: 423
+2023-08-11 21:07:00,440 - INFO - [Model_3_1] rate: 9.571
+2023-08-11 21:07:01,181 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_300.jpg, and person_frames_list: 417
+2023-08-11 21:07:01,184 - INFO - [Model_3_1] rate: 6.642
+2023-08-11 21:07:01,667 - INFO - [Model_3_1] rate: 10.529
+2023-08-11 21:07:02,330 - INFO - [Model_3_1] rate: 7.675
+2023-08-11 21:07:02,959 - INFO - [Model_3_1] rate: 9.318
+2023-08-11 21:07:03,661 - INFO - [Model_3_1] rate: 7.136
+2023-08-11 21:07:04,287 - INFO - [Model_3_1] rate: 8.131
+2023-08-11 21:07:04,398 - INFO - [Model_3_3] frame_filename: output_frames_video_5/frame_222.jpg, and person_frames_list: 391
+2023-08-11 21:07:04,893 - INFO - [Model_3_1] rate: 8.734
+2023-08-11 21:07:05,187 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_315.jpg, and person_frames_list: 385
+2023-08-11 21:07:05,693 - INFO - [Model_3_1] rate: 8.426
+2023-08-11 21:07:06,206 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_319.jpg, and person_frames_list: 378
+2023-08-11 21:07:06,657 - INFO - [Model_3_1] rate: 6.137
+2023-08-11 21:07:07,712 - INFO - [Model_3_1] rate: 5.836
+2023-08-11 21:07:08,406 - INFO - [Model_3_1] rate: 7.004
+2023-08-11 21:07:09,187 - INFO - [Model_3_1] rate: 7.714
+2023-08-11 21:07:09,515 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_344.jpg, and person_frames_list: 357
+2023-08-11 21:07:10,093 - INFO - [Model_3_1] rate: 6.56
+2023-08-11 21:07:10,476 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_346.jpg, and person_frames_list: 351
+2023-08-11 21:07:10,825 - INFO - [Model_3_1] rate: 6.756
+2023-08-11 21:07:11,207 - INFO - [Model_3_1] rate: 13.274
+2023-08-11 21:07:11,578 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_354.jpg, and person_frames_list: 341
+2023-08-11 21:07:11,819 - INFO - [Model_3_1] rate: 8.396
+2023-08-11 21:07:12,438 - INFO - [Model_3_1] rate: 7.846
+2023-08-11 21:07:13,119 - INFO - [Model_3_1] rate: 7.603
+2023-08-11 21:07:13,633 - INFO - [Model_3_1] rate: 9.407
+2023-08-11 21:07:14,267 - INFO - [Model_3_1] rate: 7.851
+2023-08-11 21:07:14,707 - INFO - [Model_3_3] frame_filename: output_frames_video_5/frame_250.jpg, and person_frames_list: 317
+2023-08-11 21:07:15,111 - INFO - [Model_3_1] rate: 5.959
+2023-08-11 21:07:15,657 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_379.jpg, and person_frames_list: 309
+2023-08-11 21:07:15,664 - INFO - [Model_3_1] rate: 9.01
+2023-08-11 21:07:16,537 - INFO - [Model_3_1] rate: 5.779
+2023-08-11 21:07:16,595 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_383.jpg, and person_frames_list: 303
+2023-08-11 21:07:17,065 - INFO - [Model_3_1] rate: 9.842
+2023-08-11 21:07:17,856 - INFO - [Model_3_1] rate: 6.123
+2023-08-11 21:07:18,437 - INFO - [Model_3_1] rate: 9.213
+2023-08-11 21:07:19,196 - INFO - [Model_3_1] rate: 6.303
+2023-08-11 21:07:19,949 - INFO - [Model_3_3] frame_filename: output_frames_video_5/frame_257.jpg, and person_frames_list: 279
+2023-08-11 21:07:19,961 - INFO - [Model_3_1] rate: 6.977
+2023-08-11 21:07:20,545 - INFO - [Model_3_1] rate: 8.622
+2023-08-11 21:07:20,897 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_399.jpg, and person_frames_list: 271
+2023-08-11 21:07:21,104 - INFO - [Model_3_1] rate: 8.126
+2023-08-11 21:07:21,896 - INFO - [Model_3_1] rate: 6.237
+2023-08-11 21:07:21,946 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_402.jpg, and person_frames_list: 263
+2023-08-11 21:07:22,563 - INFO - [Model_3_1] rate: 7.805
+2023-08-11 21:07:23,250 - INFO - [Model_3_1] rate: 7.256
+2023-08-11 21:07:23,977 - INFO - [Model_3_1] rate: 6.675
+2023-08-11 21:07:24,525 - INFO - [Model_3_1] rate: 9.227
+2023-08-11 21:07:25,051 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_447.jpg, and person_frames_list: 240
+2023-08-11 21:07:25,283 - INFO - [Model_3_1] rate: 6.548
+2023-08-11 21:07:25,794 - INFO - [Model_3_1] rate: 10.141
+2023-08-11 21:07:26,168 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_451.jpg, and person_frames_list: 231
+2023-08-11 21:07:26,493 - INFO - [Model_3_1] rate: 7.002
+2023-08-11 21:07:27,091 - INFO - [Model_3_1] rate: 8.289
+2023-08-11 21:07:27,238 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_458.jpg, and person_frames_list: 223
+2023-08-11 21:07:27,724 - INFO - [Model_3_1] rate: 7.987
+2023-08-11 21:07:28,264 - INFO - [Model_3_1] rate: 9.352
+2023-08-11 21:07:28,822 - INFO - [Model_3_1] rate: 8.85
+2023-08-11 21:07:29,572 - INFO - [Model_3_1] rate: 6.673
+2023-08-11 21:07:30,024 - INFO - [Model_3_1] rate: 11.266
+2023-08-11 21:07:30,365 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_471.jpg, and person_frames_list: 200
+2023-08-11 21:07:30,788 - INFO - [Model_3_1] rate: 6.428
+2023-08-11 21:07:31,333 - INFO - [Model_3_1] rate: 9.224
+2023-08-11 21:07:31,453 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_473.jpg, and person_frames_list: 216
+2023-08-11 21:07:32,086 - INFO - [Model_3_1] rate: 7.931
+2023-08-11 21:07:32,526 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_475.jpg, and person_frames_list: 220
+2023-08-11 21:07:32,870 - INFO - [Model_3_1] rate: 6.446
+2023-08-11 21:07:33,462 - INFO - [Model_3_1] rate: 8.388
+2023-08-11 21:07:34,004 - INFO - [Model_3_1] rate: 9.261
+2023-08-11 21:07:34,546 - INFO - [Model_3_1] rate: 9.23
+2023-08-11 21:07:35,277 - INFO - [Model_3_1] rate: 6.798
+2023-08-11 21:07:35,587 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_484.jpg, and person_frames_list: 238
+2023-08-11 21:07:35,888 - INFO - [Model_3_1] rate: 8.473
+2023-08-11 21:07:36,463 - INFO - [Model_3_1] rate: 8.44
+2023-08-11 21:07:36,895 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_492.jpg, and person_frames_list: 244
+2023-08-11 21:07:37,267 - INFO - [Model_3_1] rate: 6.202
+2023-08-11 21:07:37,710 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_515.jpg, and person_frames_list: 253
+2023-08-11 21:07:37,751 - INFO - [Model_3_1] rate: 12.502
+2023-08-11 21:07:38,666 - INFO - [Model_3_1] rate: 6.512
+2023-08-11 21:07:39,521 - INFO - [Model_3_1] rate: 5.823
+2023-08-11 21:07:40,326 - INFO - [Model_3_1] rate: 6.247
+2023-08-11 21:07:40,815 - INFO - [Model_3_3] frame_filename: output_frames_video_6/frame_543.jpg, and person_frames_list: 270
+2023-08-11 21:07:40,861 - INFO - [Model_3_1] rate: 9.422
+2023-08-11 21:07:41,493 - INFO - [Model_3_1] rate: 7.87
+2023-08-11 21:07:42,100 - INFO - [Model_3_2] frame_filename: output_frames_video_6/frame_559.jpg, and person_frames_list: 274
+2023-08-11 21:07:42,120 - INFO - [Model_3_1] rate: 8.372
+2023-08-11 21:07:42,595 - INFO - [Model_3_1] rate: 9.988
+2023-08-11 21:07:42,962 - INFO - [Model_3_1] frame_filename: output_frames_video_6/frame_565.jpg, and person_frames_list: 278
+2023-08-11 21:07:43,333 - INFO - [Model_3_1] rate: 6.698
+2023-08-11 21:07:43,982 - INFO - [Model_3_1] rate: 9.267
+2023-08-11 21:07:44,612 - INFO - [Model_3_1] rate: 8.005
+2023-08-11 21:07:45,304 - INFO - [Model_3_1] rate: 7.419
+2023-08-11 21:07:45,696 - INFO - [Model_3_1] rate: 11.954
+2023-08-11 21:07:45,943 - INFO - [Model_3_3] frame_filename: output_frames_video_9/frame_2.jpg, and person_frames_list: 277
+2023-08-11 21:07:46,172 - INFO - [Model_3_1] rate: 10.819
+2023-08-11 21:07:46,670 - INFO - [Model_3_1] rate: 9.914
+2023-08-11 21:07:47,418 - INFO - [Model_3_2] frame_filename: output_frames_video_9/frame_10.jpg, and person_frames_list: 268
+2023-08-11 21:07:47,477 - INFO - [Model_3_1] rate: 6.344
+2023-08-11 21:07:48,239 - INFO - [Model_3_1] rate: 6.344
+2023-08-11 21:07:48,379 - INFO - [Model_3_1] frame_filename: output_frames_video_9/frame_16.jpg, and person_frames_list: 267
+2023-08-11 21:07:48,771 - INFO - [Model_3_1] rate: 9.609
+2023-08-11 21:07:49,524 - INFO - [Model_3_1] rate: 6.81
+2023-08-11 21:07:50,104 - INFO - [Model_3_1] rate: 8.429
+2023-08-11 21:07:50,780 - INFO - [Model_3_1] rate: 7.33
+2023-08-11 21:07:51,125 - INFO - [Model_3_3] frame_filename: output_frames_video_10/frame_48.jpg, and person_frames_list: 266
+2023-08-11 21:07:51,326 - INFO - [Model_3_1] rate: 9.183
+2023-08-11 21:07:51,952 - INFO - [Model_3_1] rate: 7.92
+2023-08-11 21:07:52,561 - INFO - [Model_3_1] rate: 8.21
+2023-08-11 21:07:52,693 - INFO - [Model_3_2] frame_filename: output_frames_video_9/frame_89.jpg, and person_frames_list: 259
+2023-08-11 21:07:53,382 - INFO - [Model_3_1] rate: 6.104
+2023-08-11 21:07:53,772 - INFO - [Model_3_1] frame_filename: output_frames_video_9/frame_112.jpg, and person_frames_list: 253
+2023-08-11 21:07:53,915 - INFO - [Model_3_1] rate: 9.37
+2023-08-11 21:07:54,456 - INFO - [Model_3_1] rate: 9.198
+2023-08-11 21:07:54,989 - INFO - [Model_3_1] rate: 9.508
+2023-08-11 21:07:55,523 - INFO - [Model_3_1] rate: 9.313
+2023-08-11 21:07:56,066 - INFO - [Model_3_1] rate: 9.104
+2023-08-11 21:07:56,469 - INFO - [Model_3_3] frame_filename: output_frames_video_14/frame_2.jpg, and person_frames_list: 232
+2023-08-11 21:07:56,823 - INFO - [Model_3_1] rate: 6.831
+2023-08-11 21:07:57,274 - INFO - [Model_3_1] rate: 11.061
+2023-08-11 21:07:58,046 - INFO - [Model_3_1] rate: 6.447
+2023-08-11 21:07:58,055 - INFO - [Model_3_2] frame_filename: output_frames_video_14/frame_6.jpg, and person_frames_list: 218
+2023-08-11 21:07:58,598 - INFO - [Model_3_1] rate: 9.788
+2023-08-11 21:07:58,854 - INFO - [Model_3_1] frame_filename: output_frames_video_14/frame_11.jpg, and person_frames_list: 212
+2023-08-11 21:07:59,290 - INFO - [Model_3_1] rate: 7.201
+2023-08-11 21:08:00,141 - INFO - [Model_3_1] rate: 5.924
+2023-08-11 21:08:00,978 - INFO - [Model_3_1] rate: 5.813
+2023-08-11 21:08:01,965 - INFO - [Model_3_1] rate: 5.206
+2023-08-11 21:08:02,017 - INFO - [Model_3_3] frame_filename: output_frames_video_13/frame_30.jpg, and person_frames_list: 203
+2023-08-11 21:08:02,528 - INFO - [Model_3_1] rate: 8.5
+2023-08-11 21:08:03,291 - INFO - [Model_3_2] frame_filename: output_frames_video_13/frame_32.jpg, and person_frames_list: 202
+2023-08-11 21:08:03,312 - INFO - [Model_3_1] rate: 6.512
+2023-08-11 21:08:03,860 - INFO - [Model_3_1] frame_filename: output_frames_video_14/frame_42.jpg, and person_frames_list: 204
+2023-08-11 21:08:04,008 - INFO - [Model_3_1] rate: 7.464
+2023-08-11 21:08:04,782 - INFO - [Model_3_1] rate: 5.863
+2023-08-11 21:08:05,521 - INFO - [Model_3_1] rate: 6.754
+2023-08-11 21:08:06,130 - INFO - [Model_3_1] rate: 8.285
+2023-08-11 21:08:06,945 - INFO - [Model_3_1] rate: 6.17
+2023-08-11 21:08:07,456 - INFO - [Model_3_3] frame_filename: output_frames_video_13/frame_38.jpg, and person_frames_list: 201
+2023-08-11 21:08:07,735 - INFO - [Model_3_1] rate: 6.497
+2023-08-11 21:08:08,334 - INFO - [Model_3_1] rate: 8.484
+2023-08-11 21:08:08,516 - INFO - [Model_3_2] frame_filename: output_frames_video_14/frame_60.jpg, and person_frames_list: 200
+2023-08-11 21:08:08,853 - INFO - [Model_3_1] rate: 9.277
+2023-08-11 21:08:09,254 - INFO - [Model_3_1] frame_filename: output_frames_video_13/frame_44.jpg, and person_frames_list: 199
+2023-08-11 21:08:09,554 - INFO - [Model_3_1] rate: 7.275
+2023-08-11 21:08:09,992 - INFO - [Model_3_1] rate: 10.636
+2023-08-11 21:08:10,626 - INFO - [Model_3_1] rate: 7.842
+2023-08-11 21:08:11,277 - INFO - [Model_3_1] rate: 7.581
+2023-08-11 21:08:11,755 - INFO - [Model_3_1] rate: 10.531
+2023-08-11 21:08:12,608 - INFO - [Model_3_1] rate: 6.122
+2023-08-11 21:08:12,621 - INFO - [Model_3_3] frame_filename: output_frames_video_14/frame_83.jpg, and person_frames_list: 176
+2023-08-11 21:08:12,964 - INFO - [Model_3_1] rate: 12.864
+2023-08-11 21:08:13,532 - INFO - [Model_3_2] frame_filename: output_frames_video_14/frame_88.jpg, and person_frames_list: 174
+2023-08-11 21:08:13,547 - INFO - [Model_3_1] rate: 8.678
+2023-08-11 21:08:14,226 - INFO - [Model_3_1] rate: 7.331
+2023-08-11 21:08:14,349 - INFO - [Model_3_1] frame_filename: output_frames_video_14/frame_91.jpg, and person_frames_list: 173
+2023-08-11 21:08:14,700 - INFO - [Model_3_1] rate: 10.683
+2023-08-11 21:08:15,227 - INFO - [Model_3_1] rate: 9.301
+2023-08-11 21:08:15,872 - INFO - [Model_3_1] rate: 9.205
+2023-08-11 21:08:16,559 - INFO - [Model_3_1] rate: 8.7
+2023-08-11 21:08:17,355 - INFO - [Model_3_1] rate: 6.615
+2023-08-11 21:08:17,697 - INFO - [Model_3_3] frame_filename: output_frames_video_13/frame_72.jpg, and person_frames_list: 163
+2023-08-11 21:08:17,856 - INFO - [Model_3_1] rate: 10.089
+2023-08-11 21:08:18,309 - INFO - [Model_3_1] rate: 11.311
+2023-08-11 21:08:18,614 - INFO - [Model_3_2] frame_filename: output_frames_video_14/frame_126.jpg, and person_frames_list: 153
+2023-08-11 21:08:19,088 - INFO - [Model_3_1] rate: 6.855
+2023-08-11 21:08:19,479 - INFO - [Model_3_1] frame_filename: output_frames_video_13/frame_77.jpg, and person_frames_list: 153
+2023-08-11 21:08:19,824 - INFO - [Model_3_1] rate: 6.958
+2023-08-11 21:08:20,528 - INFO - [Model_3_1] rate: 7.113
+2023-08-11 21:08:21,128 - INFO - [Model_3_1] rate: 7.787
+2023-08-11 21:08:21,829 - INFO - [Model_3_1] rate: 7.407
+2023-08-11 21:08:22,431 - INFO - [Model_3_1] rate: 7.837
+2023-08-11 21:08:22,872 - INFO - [Model_3_3] frame_filename: output_frames_video_13/frame_100.jpg, and person_frames_list: 138
+2023-08-11 21:08:23,269 - INFO - [Model_3_1] rate: 5.901
+2023-08-11 21:08:23,735 - INFO - [Model_3_2] frame_filename: output_frames_video_13/frame_104.jpg, and person_frames_list: 132
+2023-08-11 21:08:24,075 - INFO - [Model_3_1] rate: 7.623
+2023-08-11 21:08:24,845 - INFO - [Model_3_1] rate: 6.34
+2023-08-11 21:08:24,885 - INFO - [Model_3_1] frame_filename: output_frames_video_13/frame_108.jpg, and person_frames_list: 124
+2023-08-11 21:08:25,392 - INFO - [Model_3_1] rate: 9.423
+2023-08-11 21:08:26,079 - INFO - [Model_3_1] rate: 7.491
+2023-08-11 21:08:26,617 - INFO - [Model_3_1] rate: 9.028
+2023-08-11 21:08:27,325 - INFO - [Model_3_1] rate: 6.962
+2023-08-11 21:08:27,872 - INFO - [Model_3_1] rate: 9.827
+2023-08-11 21:08:28,014 - INFO - [Model_3_3] frame_filename: output_frames_video_13/frame_164.jpg, and person_frames_list: 99
+2023-08-11 21:08:28,531 - INFO - [Model_3_1] rate: 7.337
+2023-08-11 21:08:28,997 - INFO - [Model_3_2] frame_filename: output_frames_video_13/frame_170.jpg, and person_frames_list: 91
+2023-08-11 21:08:29,111 - INFO - [Model_3_1] rate: 8.487
+2023-08-11 21:08:29,893 - INFO - [Model_3_1] rate: 6.265
+2023-08-11 21:08:30,229 - INFO - [Model_3_1] frame_filename: output_frames_video_13/frame_175.jpg, and person_frames_list: 83
+2023-08-11 21:08:30,669 - INFO - [Model_3_1] rate: 6.416
+2023-08-11 21:08:31,249 - INFO - [Model_3_1] rate: 8.945
+2023-08-11 21:08:32,126 - INFO - [Model_3_1] rate: 5.816
+2023-08-11 21:08:32,706 - INFO - [Model_3_1] rate: 7.999
+2023-08-11 21:08:33,327 - INFO - [Model_3_3] frame_filename: output_frames_video_13/frame_192.jpg, and person_frames_list: 60
+2023-08-11 21:08:33,347 - INFO - [Model_3_1] rate: 8.192
+2023-08-11 21:08:34,058 - INFO - [Model_3_2] frame_filename: output_frames_video_13/frame_197.jpg, and person_frames_list: 55
+2023-08-11 21:08:34,102 - INFO - [Model_3_1] rate: 7.881
+2023-08-11 21:08:34,916 - INFO - [Model_3_1] rate: 6.353
+2023-08-11 21:08:35,372 - INFO - [Model_3_1] frame_filename: output_frames_video_13/frame_216.jpg, and person_frames_list: 46
+2023-08-11 21:08:35,581 - INFO - [Model_3_1] rate: 7.579
+2023-08-11 21:08:36,308 - INFO - [Model_3_1] rate: 6.663
+2023-08-11 21:08:37,103 - INFO - [Model_3_1] rate: 6.315
+2023-08-11 21:08:37,771 - INFO - [Model_3_1] rate: 7.463
+2023-08-11 21:08:38,573 - INFO - [Model_3_1] rate: 6.377
+2023-08-11 21:08:38,618 - INFO - [Model_3_3] frame_filename: output_frames_video_13/frame_235.jpg, and person_frames_list: 23
+2023-08-11 21:08:39,377 - INFO - [Model_3_2] frame_filename: output_frames_video_13/frame_238.jpg, and person_frames_list: 19
+2023-08-11 21:08:39,415 - INFO - [Model_3_1] rate: 6.845
+2023-08-11 21:08:40,211 - INFO - [Model_3_1] rate: 6.495
+2023-08-11 21:08:40,849 - INFO - [Model_3_1] frame_filename: output_frames_video_13/frame_258.jpg, and person_frames_list: 8
+2023-08-11 21:08:40,880 - INFO - [Model_3_1] rate: 7.792
+2023-08-11 21:08:41,537 - INFO - [Model_3_1] rate: 7.169
+2023-08-11 21:09:47,554 - INFO - [Model_3_3] end
+2023-08-11 21:09:47,556 - INFO - [Model_3_2] end
+2023-08-11 21:09:47,558 - INFO - [Model_3_1] end

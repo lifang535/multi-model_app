@@ -1,0 +1,17 @@
+2023-08-11 21:03:34,753 - INFO - [Loader] start
+2023-08-11 21:03:34,755 - INFO - [Loader] input_video_path: ../input_videos/video_1.mp4
+2023-08-11 21:03:46,763 - INFO - [Loader] input_video_path: ../input_videos/video_2.mp4
+2023-08-11 21:04:06,784 - INFO - [Loader] input_video_path: ../input_videos/video_3.mp4
+2023-08-11 21:04:22,793 - INFO - [Loader] input_video_path: ../input_videos/video_4.mp4
+2023-08-11 21:04:39,807 - INFO - [Loader] input_video_path: ../input_videos/video_5.mp4
+2023-08-11 21:04:56,823 - INFO - [Loader] input_video_path: ../input_videos/video_6.mp4
+2023-08-11 21:05:16,843 - INFO - [Loader] input_video_path: ../input_videos/video_7.mp4
+2023-08-11 21:05:30,856 - INFO - [Loader] input_video_path: ../input_videos/video_8.mp4
+2023-08-11 21:05:41,868 - INFO - [Loader] input_video_path: ../input_videos/video_9.mp4
+2023-08-11 21:06:01,888 - INFO - [Loader] input_video_path: ../input_videos/video_10.mp4
+2023-08-11 21:06:16,900 - INFO - [Loader] input_video_path: ../input_videos/video_11.mp4
+2023-08-11 21:06:29,912 - INFO - [Loader] input_video_path: ../input_videos/video_12.mp4
+2023-08-11 21:06:44,926 - INFO - [Loader] input_video_path: ../input_videos/video_13.mp4
+2023-08-11 21:06:57,939 - INFO - [Loader] input_video_path: ../input_videos/video_14.mp4
+2023-08-11 21:07:14,955 - INFO - [Loader] input_video_path: ../input_videos/video_15.mp4
+2023-08-11 21:07:44,779 - INFO - [Loader] end
