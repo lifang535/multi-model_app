@@ -4,6 +4,7 @@ import sys
 import time
 import random
 import numpy as np
+from math import ceil
 
 import logging
 from logger import logger_loader, logger_model_1, logger_model_2, logger_model_3, logger_model_4, logger_model_5
@@ -59,7 +60,8 @@ class Loader(multiprocessing.Process):
         for input_video_path in input_video_paths:
             self.input_video_paths_list.append(input_video_path)
             logger_loader.info(f"[Loader] input_video_path: {input_video_path}")
-            time.sleep(random.randint(10, 20))
+            time.sleep(random.randint(2, 4))
+            # time.sleep(5)
         
         while True:
             time.sleep(0.01)
@@ -124,6 +126,8 @@ class Model_1(multiprocessing.Process):
                 self.process_video(input_video_path)
 
     def monitor_rate(self):
+        rates = []
+        sliding_window_size = 1
         while True:
             time.sleep(0.01)
             with model_1_lock:
@@ -131,15 +135,19 @@ class Model_1(multiprocessing.Process):
                     break
                 if len(self.to_monitor_rate) > 1:
                     rate = round((len(self.to_monitor_rate) - 1) / (self.to_monitor_rate[len(self.to_monitor_rate) - 1] - self.to_monitor_rate[0]), 3)
-                    print(f"[Model_1_{self.id}] rate: {rate}")
-                    logger_model_1.info(f"[Model_1_{self.id}] rate: {rate}")
-                    logger_model_1_rate.info(f"{rate}")
+                    rates.append(rate)
+                    if len(rates) > sliding_window_size:
+                        rates.pop(0)
+                    total_weight = sum(range(1, len(rates) + 1))
+                    weighted_sum = sum((i + 1) * rate for i, rate in enumerate(rates))
+                    moving_average = round(weighted_sum / total_weight, 3)
+                    # print(f"[Model_1_{self.id}] rate: {moving_average}")
+                    logger_model_1.info(f"[Model_1_{self.id}] rate: {moving_average}")
+                    logger_model_1_rate.info(f"{moving_average}")
                     self.to_monitor_rate[:] = self.to_monitor_rate[-1:]
-
+    
 
     def process_video(self, input_video_path):
-        # opt_process = torch.compile(process)
-
         # Input video file path
         input_video_path = input_video_path
         print(f"[Model_1_{self.id}] input_video_path: ", input_video_path)
@@ -205,14 +213,23 @@ class Model_1(multiprocessing.Process):
         target_sizes = torch.tensor([image.size[::-1]])
         results = self.processor.post_process_object_detection(outputs, target_sizes=target_sizes, threshold=0.9)[0]
         
+        car = False
+        person = False
+
         for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
             box = [round(i, 2) for i in box.tolist()]
-                
             if self.model.config.id2label[label.item()] == "car":
-                self.car_frames_list.append([frame, frame_filename])
+                car = True
             if self.model.config.id2label[label.item()] == "person":
-                self.person_frames_list.append([frame, frame_filename])
+                person = True
+
+        if car:
+            self.car_frames_list.append([frame, frame_filename])
+        if person:
+            self.person_frames_list.append([frame, frame_filename])
+
         return
+    
     
 class Model_2(multiprocessing.Process):
     def __init__(self, id, car_frames_list, draw_message_list, to_monitor_rate):
@@ -267,16 +284,24 @@ class Model_2(multiprocessing.Process):
                 self.process_car_frame(frame[0], frame[1])
 
     def monitor_rate(self):
+        rates = []
+        sliding_window_size = 5
         while True:
             time.sleep(0.01)
             with model_2_lock:
                 if len(self.car_frames_list) > 0 and self.car_frames_list[0] == -1:
                     break
-                if len(self.to_monitor_rate) > 5:
+                if len(self.to_monitor_rate) > 1:
                     rate = round((len(self.to_monitor_rate) - 1) / (self.to_monitor_rate[len(self.to_monitor_rate) - 1] - self.to_monitor_rate[0]), 3)
-                    print(f"[Model_2_{self.id}] rate: {rate}")
-                    logger_model_2.info(f"[Model_2_{self.id}] rate: {rate}")
-                    logger_model_2_rate.info(f"{rate}")
+                    rates.append(rate)
+                    if len(rates) > sliding_window_size:
+                        rates.pop(0)
+                    total_weight = sum(range(1, len(rates) + 1))
+                    weighted_sum = sum((i + 1) * rate for i, rate in enumerate(rates))
+                    moving_average = round(weighted_sum / total_weight, 3)
+                    # print(f"[Model_2_{self.id}] rate: {moving_average}")
+                    logger_model_2.info(f"[Model_2_{self.id}] rate: {moving_average}")
+                    logger_model_2_rate.info(f"{moving_average}")
                     self.to_monitor_rate[:] = self.to_monitor_rate[-1:]
 
     def process_car_frame(self, frame, frame_filename):
@@ -358,16 +383,24 @@ class Model_3(multiprocessing.Process):
                 self.process_person_frame(frame[0], frame[1])
 
     def monitor_rate(self):
+        rates = []
+        sliding_window_size = 5
         while True:
             time.sleep(0.01)
             with model_3_lock:
                 if len(self.person_frames_list) > 0 and self.person_frames_list[0] == -1:
                     break
-                if len(self.to_monitor_rate) > 5:
+                if len(self.to_monitor_rate) > 1:
                     rate = round((len(self.to_monitor_rate) - 1) / (self.to_monitor_rate[len(self.to_monitor_rate) - 1] - self.to_monitor_rate[0]), 3)
-                    print(f"[Model_3_{self.id}] rate: {rate}")
-                    logger_model_3.info(f"[Model_3_{self.id}] rate: {rate}")
-                    logger_model_3_rate.info(f"{rate}")
+                    rates.append(rate)
+                    if len(rates) > sliding_window_size:
+                        rates.pop(0)
+                    total_weight = sum(range(1, len(rates) + 1))
+                    weighted_sum = sum((i + 1) * rate for i, rate in enumerate(rates))
+                    moving_average = round(weighted_sum / total_weight, 3)
+                    # print(f"[Model_3_{self.id}] rate: {moving_average}")
+                    logger_model_3.info(f"[Model_3_{self.id}] rate: {moving_average}")
+                    logger_model_3_rate.info(f"{moving_average}")
                     self.to_monitor_rate[:] = self.to_monitor_rate[-1:]
 
     def process_person_frame(self, frame, frame_filename):
@@ -463,20 +496,28 @@ class Model_4(multiprocessing.Process):
                             thread.start()
                             """
                             #self.process_draw_message(draw_message)
-                    except:
-                        ...
+                    except Exception as e:
+                        logger_model_4.error(f"[Model_4_{self.id}] {e}")
 
     def monitor_rate(self):
+        rates = []
+        sliding_window_size = 10
         while True:
             time.sleep(0.01)
             with model_4_lock:
                 if len(self.draw_message_list) > 0 and self.draw_message_list[0] == -1:
                     break
-                if len(self.to_monitor_rate) > 10:
+                if len(self.to_monitor_rate) > 1:
                     rate = round((len(self.to_monitor_rate) - 1) / (self.to_monitor_rate[len(self.to_monitor_rate) - 1] - self.to_monitor_rate[0]), 3)
-                    print(f"[Model_4_{self.id}] rate: {rate}")
-                    logger_model_4.info(f"[Model_4_{self.id}] rate: {rate}")
-                    logger_model_4_rate.info(f"{rate}")
+                    rates.append(rate)
+                    if len(rates) > sliding_window_size:
+                        rates.pop(0)
+                    total_weight = sum(range(1, len(rates) + 1))
+                    weighted_sum = sum((i + 1) * rate for i, rate in enumerate(rates))
+                    moving_average = round(weighted_sum / total_weight, 3)
+                    # print(f"[Model_4_{self.id}] rate: {moving_average}")
+                    logger_model_4.info(f"[Model_4_{self.id}] rate: {moving_average}")
+                    logger_model_4_rate.info(f"{moving_average}")
                     self.to_monitor_rate[:] = self.to_monitor_rate[-1:]
 
     def process_draw_message(self, draw_message):
@@ -498,8 +539,8 @@ class Model_4(multiprocessing.Process):
             # Save the annotated image
             image.save(frame_filename)
             
-        except:
-            ...
+        except Exception as e:
+            logger_model_4.error(f"[Model_4_{self.id}] {e}")
         
         # Remove the image from the set of images being processed
         self.images_being_processed.remove(frame_filename)
@@ -545,6 +586,8 @@ class Model_5(multiprocessing.Process):
                     logger_model_5.error(f"[Model_5_{self.id}] {e}")
 
     def monitor_rate(self):
+        rates = []
+        sliding_window_size = 1
         while True:
             time.sleep(0.01)
             with model_5_lock:
@@ -552,9 +595,15 @@ class Model_5(multiprocessing.Process):
                     break
                 if len(self.to_monitor_rate) > 1:
                     rate = round((len(self.to_monitor_rate) - 1) / (self.to_monitor_rate[len(self.to_monitor_rate) - 1] - self.to_monitor_rate[0]), 3)
-                    print(f"[Model_5_{self.id}] rate: {rate}")
-                    logger_model_5.info(f"[Model_5_{self.id}] rate: {rate}")
-                    logger_model_5_rate.info(f"{rate}")
+                    rates.append(rate)
+                    if len(rates) > sliding_window_size:
+                        rates.pop(0)
+                    total_weight = sum(range(1, len(rates) + 1))
+                    weighted_sum = sum((i + 1) * rate for i, rate in enumerate(rates))
+                    moving_average = round(weighted_sum / total_weight, 3)
+                    # print(f"[Model_5_{self.id}] rate: {moving_average}")
+                    logger_model_5.info(f"[Model_5_{self.id}] rate: {moving_average}")
+                    logger_model_5_rate.info(f"{moving_average}")
                     self.to_monitor_rate[:] = self.to_monitor_rate[-1:]
 
     def process_video(self, frame_filename):
