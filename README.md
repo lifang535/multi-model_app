@@ -19,4 +19,10 @@ This is a test of multi-model_app.
 
 ![Image](https://github.com/lifang535/multi-model_app/blob/main/multi-model_app/modules/multi-model_curve_graph.png)
 
+## 问题
+
+`to_monitor_rate` 应该不用作为进程共享变量，只在 `monitor_rate(self)` 中定义即可，但是调整之后速率计算的误差会变大
+
+处理队列阻塞主要发生在 `Model_1`，直接增多数量会造成 cuda 内存不足，考虑调整模型数量比与发送视频速率
+
 
